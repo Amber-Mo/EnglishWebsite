@@ -1,0 +1,131 @@
+body {
+	background-color: #FFFFFF;
+	font-family:"宋体";
+	font-size: 12px;
+	line-height: 16px;
+}
+a:link {
+    color: #2f2f2f;
+	text-decoration: none;
+}
+a:visited {
+    color: #2f2f2f;
+	text-decoration: none;
+}
+a:hover { 
+	color: #FF6600;
+	text-decoration: none;
+}
+td {
+  font-family:"宋体";
+	font-size: 12px;
+	color: #2f2f2f;
+	line-height: 16px;
+}
+/* 后台管理导航--------- */
+td.SystemLeft {
+    font-family:"宋体";
+	font-size: 12px;
+	color: #ffffff;
+}
+td.SystemLeft a:link {
+    color: #003ebd;
+	text-decoration: none;
+}
+td.SystemLeft a:visited {
+    color: #003ebd;
+	text-decoration: none;
+}
+td.SystemLeft a:hover { 
+	color: #ffffff;
+	text-decoration: none;
+}
+textarea.ConstSet {
+	background-color: #f8fafc;
+	border: 1px solid #8db5e9;
+	border-top: #8db5e9 1px ridge; 
+	border-left: #8db5e9 1px ridge; 
+  color: #333333;
+	scrollbar-3dlight-color:#dae4ef;
+	scrollbar-arrow-color:#ffffff;
+	scrollbar-darkshadow-color:#dae4ef;
+	scrollbar-face-color:#dae4ef;
+	scrollbar-highlight-color:#dae4ef;
+	scrollbar-shadow-color:#dae4ef;
+	scrollbar-track-color:#f8fafc;
+}
+.button { 
+	border-left: #ffffff 1px ridge; 
+	border-right: #333333 1px ridge; 
+	border-top: #ffffff 1px ridge; 
+	border-bottom: #1c1c1c 1px ridge; 
+  font-family:"宋体";
+	font-size: 12px;
+  color: #1c1c1c; 
+	background-color: #ebf2f9; 
+	cursor: hand; 
+}
+.textfield{
+	border-top-width:1px;
+	border-bottom-width:2px;
+	border-left-width:1px;
+	border-right-width:2px;
+	font-size: 12px;
+	color: #2f2f2f;
+}
+
+/* 后台管理类别树-------------------------------------- */
+.SortFolderOpen {
+	background-image: url(Sort_Folder_Close.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	left: 16px;
+	padding-left: 16px;
+	cursor: hand;
+}
+.SortFolderClose {
+	background-image: url(Sort_Folder_Open.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	left: 16px;
+	padding-left: 16px;
+	cursor: hand;
+}
+.SortEndFolderOpen {
+	background-image: url(SortEnd_Folder_Close.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	left: 16px;
+	padding-left: 16px;
+	cursor: hand;
+}
+.SortEndFolderClose {
+	background-image: url(SortEnd_Folder_Open.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	left: 16px;
+	padding-left: 16px;
+	cursor: hand;
+}
+.SortListline {
+	padding-left: 16px;
+	background-image: url(Sort_Listline.gif);
+	background-repeat: repeat-y;
+}
+.SortEndListline {
+	padding-left: 16px;
+}
+.SortFile {
+	background-image: url(Sort_File.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	cursor: hand;
+	padding-left: 16px;
+}
+.SortFileEnd {
+	background-image: url(Sort_File_End.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	cursor: hand;
+	padding-left: 16px;
+}

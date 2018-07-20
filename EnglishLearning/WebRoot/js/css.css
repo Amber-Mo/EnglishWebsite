@@ -1,0 +1,41 @@
+body,tr,td {
+	font-family:verdana;
+	font-size:9pt
+}
+table {
+	font-family:verdana;
+	font-size:9pt;
+}
+input {
+	font-size: 9pt; 
+	line-height: 15px;
+	border-width: 1; 
+	border-color: #e3e3e3; 
+	font-family: tahoma,verdana,ËÎÌו;
+}
+a:link {
+	text-decoration:none;
+	color:#000000;
+}
+a:visited {
+	text-decoration:none;
+	color:#000000;
+}
+a:active {
+	text-decoration:none;
+	color:#000080;
+}
+a:hover{
+	color: #2953c0; 
+	text-decoration: underline;
+}
+.td1{
+	font-size:9pt;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.td2{
+	font-size:9pt;
+	color:#0466cc;
+	font-weight:bold;
+}

@@ -1,0 +1,29 @@
+body {
+	padding-right: 0px; 
+	padding-left: 0px; 
+	padding-bottom: 0px;
+	padding-top: 0px; 
+	margin: 0px; 
+	background-color: #2a8dc8;
+}
+body,td,div,p {
+	font-size: 11px; color: #003366; font-family: verdana;
+}
+.mainMenu {
+	font-weight: bold; font-size: 14px; cursor: hand; color: #000000;
+}
+a.style2:link {
+	padding-left: 4px; color: #0055bb; text-decoration: none;
+}
+a.style2:visited {
+	padding-left: 4px; color: #0055bb; text-decoration: none;
+}
+a.style2:hover {
+	padding-left: 4px; color: #ff0000; text-decoration: none;
+}
+a.active {
+	padding-left: 4px; color: #ff0000; text-decoration: none;
+}
+.span {
+	color: #ff0000;
+}

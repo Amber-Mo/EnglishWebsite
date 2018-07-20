@@ -1,0 +1,132 @@
+body,p,td,li,input,from {
+	font-size: 12px;
+}
+a:link {
+	font-size: 12px; color: #000000; 
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px; 
+	color: #000000; 
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px; 
+	color: #cc0000; 
+	text-decoration: underline;
+}
+.heicu {
+	font-weight: bold; 
+	font-size: 12px; 
+	color: #333333; 
+	text-decoration: none;
+}
+.lancu {
+	font-weight: bold; 
+	font-size: 12px; 
+	color: #0066cc; 
+	line-height: 20px; 
+	text-decoration: none;
+}
+.kuang {
+	border-right: #999999 1px solid; 
+	border-top: #999999 1px solid; 
+	border-left: #999999 1px solid; 
+	border-bottom: #999999 1px solid; 
+	height: 17px;
+}
+.red {
+	color: #cc0000; 
+	text-decoration: none;
+}
+.b:link {
+	font-size: 12px; color: #000000; 
+	text-decoration: none;
+}
+.b:visited {
+	font-size: 12px; 
+	color: #000000; 
+	text-decoration: none;
+}
+.b:hover {
+	font-size: 12px; 
+	color: #cc0000; 
+	text-decoration: none;
+}
+.white {
+	color: #ffffff; 
+	text-decoration: none;
+}
+.c:link {
+	font-size: 12px; 
+	color: #333333; 
+	text-decoration: none;
+}
+.c:visited {
+	font-size: 12px; 
+	color: #333333; 
+	text-decoration: none;
+}
+.c:hover {
+	font-size: 12px; 
+	color: #cc0000; 
+	text-decoration: underline;
+}
+.c:active {
+	font-size: 12px; 
+	color: #cc0000; 
+	text-decoration: underline;
+}
+.about {
+	font-size: 12px; 
+	color: #333333; 
+	line-height: 20px; 
+	text-decoration: none;
+}
+.peixu {
+	font-weight: normal; 
+	font-size: 13px; 
+	color: #ffffff; 
+	line-height: 20px; 
+	text-decoration: none;
+}
+.redbiaoti {
+	font-weight: bold; 
+	font-size: 14px; 
+	color: #cc3300; 
+	text-decoration: none;
+}
+.e:visited {
+	font-size: 12px; 
+	color: #0f62ba; 
+	text-decoration: none;
+}
+.e:hover {
+	font-size: 12px; 
+	color: #cc0000; 
+	text-decoration: underline;
+}
+.e:link {
+	font-size: 12px; 
+	color: #0f62ba;
+}
+.w:visited {
+	font-size: 12px; 
+	color: #ffffff; 
+	text-decoration: none;
+}
+.w:hover {
+	font-size: 12px; 
+	color: #ff0000; 
+	text-decoration: underline;
+}
+.w:link {
+	font-size: 12px; 
+	color: #ffffff;
+}
+.big {
+	font-weight: bold; 
+	font-size: 14px; 
+	color: #ffffff; 
+	text-decoration: none;
+}
